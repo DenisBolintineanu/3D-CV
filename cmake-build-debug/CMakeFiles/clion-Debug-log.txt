@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/denisbolintineanu/CLionProjects/3D-CV -B /Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug

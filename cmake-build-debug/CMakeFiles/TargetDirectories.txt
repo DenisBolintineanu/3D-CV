@@ -1,0 +1,4 @@
+/Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug/CMakeFiles/3D-CV.dir
+/Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/denisbolintineanu/CLionProjects/3D-CV/cmake-build-debug/CMakeFiles/3D-CV_autogen.dir
